@@ -1,0 +1,20 @@
+{
+  "name": "Desh",
+  "colors": [
+    "D38B4C",
+    "C57041"
+  ],
+  "timeRequired": 240,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:ingots/desh",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/desh"
+  }
+}

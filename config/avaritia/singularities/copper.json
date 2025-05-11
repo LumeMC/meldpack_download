@@ -1,0 +1,11 @@
+{
+  "name": "singularity.avaritia.copper",
+  "colors": [
+    "F99780",
+    "E47B55"
+  ],
+  "timeRequired": 240,
+  "ingredient": {
+    "item": "minecraft:copper_ingot"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "singularity.avaritia.lead",
+  "colors": [
+    "96ACA9",
+    "93A5A2"
+  ],
+  "timeRequired": 240,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:ingots/lead",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/lead"
+  }
+}

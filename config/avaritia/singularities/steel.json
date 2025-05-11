@@ -1,0 +1,20 @@
+{
+  "name": "singularity.avaritia.steel",
+  "colors": [
+    "787878",
+    "6C6C6C"
+  ],
+  "timeRequired": 240,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:ingots/steel",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/steel"
+  }
+}

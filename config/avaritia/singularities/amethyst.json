@@ -1,0 +1,11 @@
+{
+  "name": "Amethyst",
+  "colors": [
+    "CC9EF0",
+    "BD7FEF"
+  ],
+  "timeRequired": 240,
+  "ingredient": {
+    "item": "minecraft:amethyst_shard"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Zinc",
+  "colors": [
+    "D3FCD9",
+    "B7E6BF"
+  ],
+  "timeRequired": 240,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:ingots/zinc",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/zinc"
+  }
+}

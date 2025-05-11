@@ -1,0 +1,16 @@
+[
+    {
+        "mob": "forbidden_arcanus:lost_soul",
+        "mincount": 12,
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mod": "alexsmobs",
+        "result": "allow"
+    },
+    {
+        "mod": "alexsmobs",
+        "result": "deny"
+    }
+]

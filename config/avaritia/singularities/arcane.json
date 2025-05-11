@@ -1,0 +1,11 @@
+{
+  "name": "Arcane",
+  "colors": [
+    "B4BEF2",
+    "D38DFC"
+  ],
+  "timeRequired": 240,
+  "ingredient": {
+    "item": "irons_spellbooks:arcane_ingot"
+  }
+}

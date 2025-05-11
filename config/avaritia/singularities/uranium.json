@@ -1,0 +1,20 @@
+{
+  "name": "Uranium",
+  "colors": [
+    "AEF7AA",
+    "AEF7AA"
+  ],
+  "timeRequired": 240,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:ingots/uranium",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/uranium"
+  }
+}

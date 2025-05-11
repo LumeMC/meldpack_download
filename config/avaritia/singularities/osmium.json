@@ -1,0 +1,20 @@
+{
+  "name": "Osmium",
+  "colors": [
+    "8C98B8",
+    "8C98B8"
+  ],
+  "timeRequired": 240,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:ingots/osmium",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/osmium"
+  }
+}

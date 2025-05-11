@@ -1,0 +1,20 @@
+{
+  "name": "Terrasteel",
+  "colors": [
+    "38E200",
+    "2DB700"
+  ],
+  "timeRequired": 240,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:ingots/terrasteel",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/terrasteel"
+  }
+}
